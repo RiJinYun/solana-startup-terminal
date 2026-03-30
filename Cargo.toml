@@ -4,7 +4,8 @@ resolver = "3"
 members = [
     "accounts",
     "transactions",
-    "tokens"
+    "tokens",
+    "programs",
 ]
 
 [workspace.package]
